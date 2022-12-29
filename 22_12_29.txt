@@ -1,0 +1,13 @@
+Editable poly 복사 단축키 - ctrl + shift + 이동
+backface - 뒷면과 함께 선택되는 것을 비활성
+링 - 이어지지 않은 가로선 선택
+루프 - 이어진 선 선택
+remove - 점 선만 숨김(백스페이스) -> del은 점 공유 면을 모두 삭제 -> ctrl + 백스페이스 - 해당 엣지를 삭제
+connect - 점 간의 숨겨졌던 엣지가 보임(생성 x)
+turn - 엣지 방향을 변경
+chamfer - 엣지 깎기
+create - 버텍스 level 에서 사용하면 공간만 차지함 - 사용 x
+element level에서 브릿지 연결 시 하나의 element가 됨
+대칭복사 -> mirror / symmetry 두가지
+
+로컬 축과 월드 축을 일치 시켜야 엔진에 넘길 때 변형이 없음
